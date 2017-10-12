@@ -10,7 +10,9 @@ export default class signuppage extends Component {
 
 	render() {
 		return (
-			
+			<View>
+				<Text>Hey</Text>
+			</View>
 		);
 	}
 }
